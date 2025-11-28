@@ -1,7 +1,7 @@
 # Welcome MVP-ScoreBoard 👋
 
 ## Project Screenshot
-![Leaderboard Screenshot](https://raw.githubusercontent.com/Jouhar123/react_Native_mvp_Scoreboard/main/mvp-scoreboard.jpg)
+![Leaderboard Screenshot](https://raw.githubusercontent.com/Jouhar123/react_Native_mvp_Scoreboard/main/mvp_scoreboard.jpg)
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
