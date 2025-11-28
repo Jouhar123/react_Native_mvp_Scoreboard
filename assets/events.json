@@ -1,0 +1,10 @@
+[
+  { "playerId": 101, "action": "50_RUNS_MILESTONE" },
+  { "playerId": 102, "action": "TAKE_WICKET" },
+  { "playerId": 101, "action": "HIT_FOUR" },
+  { "playerId": 103, "action": "HIT_SIX" },
+  { "playerId": 101, "action": "HIT_SIX" },
+  { "playerId": 104, "action": "HIT_SIX" },
+  { "playerId": 104, "action": "50_RUNS_MILESTONE" },
+  { "playerId": 104, "action": "50_RUNS_MILESTONE" }
+]
